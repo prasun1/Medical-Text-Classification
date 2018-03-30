@@ -1,7 +1,7 @@
 # Medical-Text-Classification
 
 The objectives of this assignment are the following:
-- Choose appropriate techniques for modeling text.  Experiment with various classification models.
+- Choose appropriate techniques for modeling text. 
 - Think about dealing with imbalanced data.
 
 Detailed Description:
